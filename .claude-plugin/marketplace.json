@@ -1,0 +1,17 @@
+{
+  "name": "tokenomixai",
+  "owner": {
+    "name": "TokenomixAI",
+    "url": "https://tokenomixai.com"
+  },
+  "metadata": {
+    "description": "Plugin resmi TokenomixAI untuk Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "tokenomixai",
+      "source": "./",
+      "description": "Sisa kuota TokenomixAI di bawah kotak input Claude Code"
+    }
+  ]
+}

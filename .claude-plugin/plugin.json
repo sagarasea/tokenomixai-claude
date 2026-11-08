@@ -1,0 +1,12 @@
+{
+  "name": "tokenomixai",
+  "version": "1.0.0",
+  "description": "Sisa kuota TokenomixAI di bawah kotak input Claude Code (terminal dan VS Code)",
+  "author": {
+    "name": "TokenomixAI",
+    "url": "https://tokenomixai.com"
+  },
+  "homepage": "https://tokenomixai.com/docs#quota",
+  "license": "MIT",
+  "repository": "https://github.com/sagarasea/tokenomixai-claude"
+}
